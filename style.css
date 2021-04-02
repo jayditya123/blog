@@ -1,0 +1,37 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#jade 
+{
+    width: 500px;
+}
+.movie_head{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 100%
+}
+#endgame{
+    font-size: 18px;
+}
+#arrowdownendgame{
+    float: right;
+}
